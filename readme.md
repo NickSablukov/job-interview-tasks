@@ -1,4 +1,3 @@
-# Task for hands.ru
+# Job interview Tasks
 
-
-program for recognizing phone numbers on html pages and their canonization
+Set of scripts for job interviews
